@@ -37,3 +37,7 @@ DESCRIPTION: Ethiopia has expanded power generation from 4,462 to 9,752 megawatt
 TITLE: Lalibela's Ethiopian Feasts Turn Watertown Square Into a Comfort-Food Destination
 LINK: https://hoodline.com/2026/05/lalibela-s-ethiopian-feasts-turn-watertown-square-into-comfort-food-central/
 DESCRIPTION: Restaurant Lalibela is drawing diners to Watertown Square with traditional Ethiopian feasts, emerging as a standout comfort-food spot in the area. The eatery joins a growing wave of Ethiopian cuisine gaining mainstream recognition abroad.
+
+TITLE: Ledesta Test Post 2
+LINK: https://github.com/Ledesta/my-first-project
+DESCRIPTION: Second test for Vista Social connection.
