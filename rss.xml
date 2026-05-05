@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Ledesta Test RSS Feed</title>
+    <title>Ledesta RSS Feed</title>
     <link>https://github.com/Ledesta/my-first-project</link>
-    <description>This is a simple test RSS feed.</description>
+    <description>Automated RSS feed for Ledesta test posts.</description>
     <language>en-us</language>
 
     <item>
-      <title>My First RSS Post</title>
+      <title>My First Automated RSS Post</title>
       <link>https://github.com/Ledesta/my-first-project</link>
-      <description>This is my first RSS item. I am testing how RSS works.</description>
-      <pubDate>Tue, 05 May 2026 10:00:00 -0400</pubDate>
+      <description>This post was added from a simple text file.</description>
+      <pubDate>Tue, 05 May 2026 11:08:00 -0400</pubDate>
+    </item>
+
+    <item>
+      <title>Ledesta Test Update</title>
+      <link>https://github.com/Ledesta/my-first-project</link>
+      <description>This is another RSS item created automatically.</description>
+      <pubDate>Tue, 05 May 2026 11:08:00 -0400</pubDate>
     </item>
 
   </channel>

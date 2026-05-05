@@ -1,0 +1,7 @@
+TITLE: My First Automated RSS Post
+LINK: https://github.com/Ledesta/my-first-project
+DESCRIPTION: This post was added from a simple text file.
+
+TITLE: Ledesta Test Update
+LINK: https://github.com/Ledesta/my-first-project
+DESCRIPTION: This is another RSS item created automatically.
